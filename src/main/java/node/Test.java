@@ -2,6 +2,6 @@ package node;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("ce2");
+        System.out.println("ce");
     }
 }
